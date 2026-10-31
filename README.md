@@ -1,8 +1,8 @@
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
-  <img src="./banner-light.svg?v=2" alt="Eduard Chervonenko — Fullstack Developer · Team Lead · Mentor" width="846">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ed-chervonenko/ed-chervonenko/main/banner-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ed-chervonenko/ed-chervonenko/main/banner-light.svg?v=3">
+  <img src="https://raw.githubusercontent.com/ed-chervonenko/ed-chervonenko/main/banner-light.svg?v=3" alt="Eduard Chervonenko — Fullstack Developer · Team Lead · Mentor" width="846">
 </picture>
 </p>
 

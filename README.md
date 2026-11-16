@@ -11,7 +11,7 @@
 [💼&nbsp;Portfolio&nbsp;↗](https://ed-chervonenko.github.io/) &nbsp; · &nbsp; [🎮&nbsp;PartySide&nbsp;↗](https://partyside.ru/) &nbsp; · &nbsp; [✈️&nbsp;Telegram&nbsp;↗](https://t.me/edcore_blog)
 
 
-<br>Workstation</br>
+🖥️ <strong>Workstation</strong>
 
 Ryzen 7 9800X3D · RTX 5080 · MacBook Pro M2 Pro
 

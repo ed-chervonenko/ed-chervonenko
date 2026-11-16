@@ -8,11 +8,10 @@
 
 `TypeScript` `React` `Next.js` `NestJS` `PostgreSQL` `Docker`
 
-[💼&nbsp;Portfolio&nbsp;↗](https://ed-chervonenko.github.io/) &nbsp; · &nbsp; [🎮&nbsp;PartySide&nbsp;↗](https://partyside.ru/) &nbsp; · &nbsp; [✈️&nbsp;Telegram&nbsp;↗](https://t.me/ra1n_xd)
+[💼&nbsp;Portfolio&nbsp;↗](https://ed-chervonenko.github.io/) &nbsp; · &nbsp; [🎮&nbsp;PartySide&nbsp;↗](https://partyside.ru/) &nbsp; · &nbsp; [✈️&nbsp;Telegram&nbsp;↗](https://t.me/edcore_blog)
 
-<details>
-<summary>Workstation</summary>
+
+<br>Workstation</br>
 
 Ryzen 7 9800X3D · RTX 5080 · MacBook Pro M2 Pro
 
-</details>

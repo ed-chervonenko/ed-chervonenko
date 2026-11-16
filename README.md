@@ -6,10 +6,10 @@
 </picture>
 </p>
 
-`TypeScript` `React` `Next.js` `NestJS` `PostgreSQL` `Docker`
 
 [💼&nbsp;Portfolio&nbsp;↗](https://ed-chervonenko.github.io/) &nbsp; · &nbsp; [🎮&nbsp;PartySide&nbsp;↗](https://partyside.ru/) &nbsp; · &nbsp; [✈️&nbsp;Telegram&nbsp;↗](https://t.me/edcore_blog)
 
+`TypeScript` `React` `Next.js` `NestJS` `PostgreSQL` `Docker`
 
 🖥️ <strong>Workstation</strong>
 
